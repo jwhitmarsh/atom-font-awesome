@@ -1,0 +1,11 @@
+{
+  "name": "atom-font-awesome",
+  "version": "0.0.1",
+  "description": "Font Awesome Atom Snippets",
+  "repository": "https://github.com/kevdotbadger/atom-font-awesome",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
