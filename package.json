@@ -1,7 +1,7 @@
 {
-  "name": "atom-font-awesome-KDB",
-  "version": "0.0.4",
-  "description": "Font Awesome Atom Snippets",
+  "name": "font-awesome-snippetset",
+  "version": "0.0.5",
+  "description": "A 'Font Awesome' snippetset.",
   "repository": "https://github.com/kevdotbadger/atom-font-awesome",
   "license": "MIT",
   "engines": {
