@@ -1,6 +1,6 @@
 ".text.html":
   "Font Awesome Includes":
-    "prefix":"fa-include"
+    "prefix":"fa-inc"
     "body":"<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css' rel='stylesheet'>"
 	"fa-automobile":
 		"prefix":"fa-automobile"
