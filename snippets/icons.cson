@@ -1,7 +1,7 @@
 ".text.html":
-  "Font Awesome Includes":
-    "prefix":"fa-inc"
-    "body":"<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css' rel='stylesheet'>"
+    "Font Awesome Includes":
+        "prefix":"fa-inc"
+        "body":"<link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet'>"
 	"fa-automobile":
 		"prefix":"fa-automobile"
 		"body":"<i class='fa fa-automobile'></i>"
@@ -1946,3 +1946,132 @@
 	"fa-wheelchair":
 		"prefix":"fa-wheelchair"
 		"body":"<i class='fa fa-wheelchair'></i>"
+    "fa-angellist":
+        "prefix":"fa-angellist"
+        "body": "<i class='fa fa-angellist'></i>"
+    "fa-area-chart":
+        "prefix":"fa-area-chart"
+        "body": "<i class='fa fa-area-chart'></i>"
+    "fa-at":
+        "prefix":"fa-at"
+        "body": "<i class='fa fa-at'></i>"
+    "fa-bell-slash":
+        "prefix":"fa-bell-slash"
+        "body": "<i class='fa fa-bell-slash'></i>"
+    "fa-bell-slash-o":
+        "prefix":"fa-bell-slash-o"
+        "body": "<i class='fa fa-bell-slash-o'></i>"
+    "fa-bicycle":
+        "prefix":"fa-bicycle"
+        "body": "<i class='fa fa-bicycle'></i>"
+    "fa-binoculars":
+        "prefix":"fa-binoculars"
+        "body": "<i class='fa fa-binoculars'></i>"
+    "fa-birthday-cake":
+        "prefix":"fa-birthday-cake"
+        "body": "<i class='fa fa-birthday-cake'></i>"
+    "fa-bus":
+        "prefix":"fa-bus"
+        "body": "<i class='fa fa-bus'></i>"
+    "fa-calculator":
+        "prefix":"fa-calculator"
+        "body": "<i class='fa fa-calculator'></i>"
+    "fa-cc":
+        "prefix":"fa-cc"
+        "body": "<i class='fa fa-cc'></i>"
+    "fa-cc-amex":
+        "prefix":"fa-cc-amex"
+        "body": "<i class='fa fa-cc-amex'></i>"
+    "fa-cc-discover":
+        "prefix":"fa-cc-discover"
+        "body": "<i class='fa fa-cc-discover'></i>"
+    "fa-cc-mastercard":
+        "prefix":"fa-cc-mastercard"
+        "body": "<i class='fa fa-cc-mastercard'></i>"
+    "fa-cc-paypal":
+        "prefix":"fa-cc-paypal"
+        "body": "<i class='fa fa-cc-paypal'></i>"
+    "fa-cc-stripe":
+        "prefix":"fa-cc-stripe"
+        "body": "<i class='fa fa-cc-stripe'></i>"
+    "fa-cc-visa":
+        "prefix":"fa-cc-visa"
+        "body": "<i class='fa fa-cc-visa'></i>"
+    "fa-copyright":
+        "prefix":"fa-copyright"
+        "body": "<i class='fa fa-copyright'></i>"
+    "fa-eyedropper":
+        "prefix":"fa-eyedropper"
+        "body": "<i class='fa fa-eyedropper'></i>"
+    "fa-futbol-o":
+        "prefix":"fa-futbol-o"
+        "body": "<i class='fa fa-futbol-o'></i>"
+    "fa-google-wallet":
+        "prefix":"fa-google-wallet"
+        "body": "<i class='fa fa-google-wallet'></i>"
+    "fa-ils":
+        "prefix":"fa-ils"
+        "body": "<i class='fa fa-ils'></i>"
+    "fa-ioxhost":
+        "prefix":"fa-ioxhost"
+        "body": "<i class='fa fa-ioxhost'></i>"
+    "fa-lastfm":
+        "prefix":"fa-lastfm"
+        "body": "<i class='fa fa-lastfm'></i>"
+    "fa-lastfm-square":
+        "prefix":"fa-lastfm-square"
+        "body": "<i class='fa fa-lastfm-square'></i>"
+    "fa-line-chart":
+        "prefix":"fa-line-chart"
+        "body": "<i class='fa fa-line-chart'></i>"
+    "fa-meanpath":
+        "prefix":"fa-meanpath"
+        "body": "<i class='fa fa-meanpath'></i>"
+    "fa-newspaper-o":
+        "prefix":"fa-newspaper-o"
+        "body": "<i class='fa fa-newspaper-o'></i>"
+    "fa-paint-brush":
+        "prefix":"fa-paint-brush"
+        "body": "<i class='fa fa-paint-brush'></i>"
+    "fa-paypal":
+        "prefix":"fa-paypal"
+        "body": "<i class='fa fa-paypal'></i>"
+    "fa-pie-chart":
+        "prefix":"fa-pie-chart"
+        "body": "<i class='fa fa-pie-chart'></i>"
+    "fa-plug":
+        "prefix":"fa-plug"
+        "body": "<i class='fa fa-plug'></i>"
+    "fa-shekel":
+        "prefix":"fa-shekel"
+        "body": "<i class='fa fa-ils'></i>"
+    "fa-sheqel":
+        "prefix":"fa-sheqel"
+        "body": "<i class='fa fa-ils'></i>"
+    "fa-slideshare":
+        "prefix":"fa-slideshare"
+        "body": "<i class='fa fa-slideshare'></i>"
+    "fa-soccer-ball-o":
+        "prefix":"fa-soccer-ball-o"
+        "body": "<i class='fa fa-futbol-o'></i>"
+    "fa-toggle-off":
+        "prefix":"fa-toggle-off"
+        "body": "<i class='fa fa-toggle-off'></i>"
+    "fa-toggle-on":
+        "prefix":"fa-toggle-on"
+        "body": "<i class='fa fa-toggle-on'></i>"
+    "fa-trash":
+        "prefix":"fa-trash"
+        "body": "<i class='fa fa-trash'></i>"
+    "fa-tty":
+        "prefix":"fa-tty"
+        "body": "<i class='fa fa-tty'></i>"
+    "fa-twitch":
+        "prefix":"fa-twitch"
+        "body": "<i class='fa fa-twitch'></i>"
+    "fa-wifi":
+        "prefix":"fa-wifi"
+        "body": "<i class='fa fa-wifi'></i>"
+    "fa-yelp":
+        "prefix":"fa-yelp"
+        "body": "<i class='fa fa-yelp'></i>"
